@@ -1,0 +1,5 @@
+<resources>
+    <color name="md_theme_primary">#880E4F</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_secondary">#BC477B</color>
+</resources>
